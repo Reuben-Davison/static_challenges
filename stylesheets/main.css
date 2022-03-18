@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+.large {
+  font-size:35px;
+}
+#login {
+  font-size: 20px;
+  background-color: #1e7315;
+  margin-bottom: 10px;
+  margin-left: 90%;
+}
+.nav {
+  background-color: #17306e;
+  font-size: 10px;
+  text-align: center;
+  border-style: solid;
+  border-color: lightblue blue lightblue blue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  word-spacing: 150px
+}
+.banner {
+  background-image: url('../images/1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 60%;
+  height: 300px
+
+}
+
+.photos {
+  background-color: grey;
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.indent {
+  padding-top: 50px;
+  padding-left: 30px;
+}
